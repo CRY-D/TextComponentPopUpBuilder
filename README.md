@@ -1,5 +1,5 @@
 # TextComponentPopUpBuilder
-Java Swing TextComponentPopUpBuilder  The is a Java Swing component that allows you to add a popup menu to a text component. It provides a fluent API to configure the popup menu and register the actions globally.
+Java Swing TextComponentPopUpBuilder  This is a Java Swing component that allows you to add a popup menu to a text component. It provides a fluent API to configure the popup menu and register the actions globally.
 ## Usage
 
 You can use the TextComponentPopUpBuilder like this:
